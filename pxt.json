@@ -1,6 +1,6 @@
 {
     "name": "robot",
-    "description": "",
+    "description": "This library is Legged Robot. Please use this under Trumptech Trainer guidance.",
     "dependencies": {
         "core": "*",
         "radio": "*",
